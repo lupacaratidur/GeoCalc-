@@ -1,2 +1,2 @@
-# 20104100-Wahrul_Hidayat-PraktikumPBO-SEB
+# GeoCalc-
 Membuat kalkulator untuk menghitung bangun ruang
